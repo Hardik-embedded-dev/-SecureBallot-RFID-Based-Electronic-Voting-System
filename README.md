@@ -325,10 +325,10 @@ Mark Voter as Already Voted
 
 ## 👨‍💻 Author
 
-**Ishant Tikhe**
+**Hardik Tengale**
 
 * Embedded Systems | ARM7 | Embedded C | Microcontroller Interfacing
-* GitHub: [@tikheishant](https://github.com/tikheishant)
+* GitHub: github.com/Hardik-embedded-dev  
 
 ---
 
